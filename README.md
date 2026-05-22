@@ -1,411 +1,206 @@
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;ML+%26+Software+Engineering+Enthusiast;Building+Scalable+Applications;Open+Source+Contributor" />
+<h1 align="center">Muskan Patni</h1>
+
+<p align="center">
+B.Tech CSE (Data Science & Artificial Intelligence) • Full Stack Developer • Machine Learning Enthusiast
 </p>
 
-## 💻 Tech Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-# Hi, I'm Muskan Patni 👋
-
-### Full Stack Developer | Software Engineer | ML Enthusiast
-
-I am a BTech CSE student passionate about building scalable web applications, intelligent systems, and impactful digital experiences.
-
-I work with modern technologies like React.js, Node.js, MongoDB, JavaScript, TypeScript, Python, and Machine Learning to build real-world projects and production-level applications.
+<p align="center">
+  <a href="https://github.com/Muskan907">GitHub</a> •
+  <a href="https://www.linkedin.com/in/muskanpatni30">LinkedIn</a> •
+  <a href="https://leetcode.com/u/Muskan_Patni/">LeetCode</a>
+</p>
 
 ---
 
-# 🚀 About Me
+## About Me
 
-- 💻 Full Stack Developer with experience in MERN Stack development
-- 🤖 Interested in Machine Learning, Cybersecurity, and System Design
-- 📱 Android App Developer using Java & XML
-- 🧠 Strong understanding of Data Structures & Algorithms
-- 🌱 Currently building scalable applications and AI-powered systems
-- 🎯 Passionate about clean UI/UX and modern web experiences
+I am a Computer Science undergraduate specializing in Data Science and Artificial Intelligence at BML Munjal University. I am interested in Full Stack Development, Machine Learning, IoT Systems, and intelligent software solutions.
+
+I enjoy building practical projects that combine software engineering, machine learning, automation, and scalable backend systems to solve real-world problems.
 
 ---
 
-# 🌐 Connect With Me
+## Technical Skills
 
-- LinkedIn: https://www.linkedin.com/in/muskanpatni30
-- GitHub: https://github.com/Muskan907
-- LeetCode: https://leetcode.com/u/Muskan_Patni/
-
----
-
-# 🛠️ Tech Stack
-
-## Frontend
-- React.js
-- Next.js
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Framer Motion
-
-## Backend
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-
-## Programming Languages
+### Languages
 - C++
-- Python
 - Java
+- Python
 - JavaScript
 - SQL
-- GoLang
-- C#
+- HTML
+- CSS
 
-## Tools & Platforms
+### Frameworks & Libraries
+- TensorFlow
+- PyTorch
+- OpenCV
+- Node.js
+- Express.js
+- React
+- Pandas
+- NumPy
+- Scikit-learn
+
+### Databases & Tools
+- MongoDB
+- MySQL
 - Git & GitHub
 - VS Code
 - Android Studio
-- MongoDB Atlas
-- NetBeans
+- Jupyter Notebook
+- Figma
+
+### Core Concepts
+- Data Structures & Algorithms
+- Object Oriented Programming
+- REST APIs
+- Machine Learning
+- Agile Development
 
 ---
 
-# 📌 Featured Projects
+## Featured Projects
 
-## 🔐 Phishing URL Detection System
-Machine learning-based phishing detection platform that identifies malicious and legitimate URLs using models like Random Forest, SVM, KNN, and Logistic Regression.
+### Parkinson’s Disease Detection using Gait Analysis
+Deep learning and gait analysis based Parkinson’s Disease detection system using pose estimation, movement feature extraction, and time-series analysis.
 
-### Features
-- Real-time phishing detection
-- ML-powered URL classification
-- Security-focused architecture
-- Dataset-driven analysis
+**Tech Stack:** Python, Deep Learning, OpenCV, TensorFlow, Pose Estimation
 
----
-
-## 🏥 Cura Healthcare App
-Android healthcare application for healthcare management.
-
-### Features
-- Appointment booking
-- Medicine reminders
-- Health record management
-- Specialist search system
+**Highlights**
+- Developed gait analysis pipeline for Parkinson’s detection
+- Applied movement feature extraction and time-series analysis
+- Built model training and evaluation workflow
+- Worked with pose estimation based healthcare data
 
 ---
 
-## 🎓 Zenvy Coaching Platform
-A modern coaching institute comparison platform.
+### Retail Demand Forecasting & Inventory Optimization
+Machine Learning and time-series based retail forecasting and inventory optimization system using the Favorita dataset.
 
-### Features
-- Coaching comparison system
-- Ratings and reviews
-- Student-focused search features
-- Enrollment functionality
+**Tech Stack:** Python, LightGBM, Pandas, Scikit-learn, Time Series Forecasting
 
----
-
-## 🔥 Wildfire Fighting Robot
-IoT and sensor-based forest fire detection and response system.
-
-### Features
-- Fire detection using sensors
-- Autonomous response system
-- GPS alert integration
-- Real-time monitoring
+**Highlights**
+- Built demand forecasting system for retail analytics
+- Performed inventory optimization using EOQ & ROP concepts
+- Generated store-level forecasting and inventory insights
+- Implemented business analytics workflows
 
 ---
 
-## 🛋️ FurnitureHub
-Furniture e-commerce platform built using Node.js and MongoDB.
+### AI-Based Smart Classroom Monitoring & Automation System
+AI and IoT based smart classroom monitoring system using ESP32, environmental sensors, Flask backend, and Machine Learning based attention prediction.
 
-### Features
-- Product browsing
-- Shopping cart system
-- Database integration
-- Responsive UI
+**Tech Stack:** Python, Flask, ESP32, IoT, Scikit-learn
 
----
-
-# 🏆 Experience & Leadership
-
-## Savera NGO Club
-Executive Committee Member
-- Organized social initiatives and educational events
-- Managed volunteering and social activities
-- Taught underprivileged children
-
-## Google Developer Student Club (GDSC)
-Executive & Content Team Member
-- Worked on technical content and developer community activities
-
-## Marketing & Event Management
-- Worked in social media and marketing teams for multiple events and fests
-- Managed branding, promotions, and engagement
-
-## Legal Internship
-Bhardwaj Law Firm
-- Worked on legal drafting, affidavits, notices, and documentation
-- Observed court proceedings and legal processes
+**Highlights**
+- Built intelligent classroom automation system
+- Integrated environmental sensors with ESP32
+- Developed ML-based classroom attention prediction
+- Automated fan, light, and alert systems
 
 ---
 
-# 📈 Coding Profiles
+### Phishing URL Detection System
+Machine Learning based phishing URL detection system using SVM, Random Forest, and feature extraction techniques.
+
+**Tech Stack:** Python, Flask, Machine Learning
+
+**Highlights**
+- Developed phishing URL classification models
+- Performed URL-based feature extraction
+- Built web interface for real-time prediction
+- Improved phishing detection accuracy
+
+---
+
+### Zenvy
+Coaching institute comparison platform built using Node.js, Express.js, MongoDB, HTML, CSS, and JavaScript.
+
+**Tech Stack:** Node.js, Express.js, MongoDB, JavaScript
+
+**Highlights**
+- Built institute comparison and review platform
+- Developed search and filtering functionalities
+- Integrated backend database systems
+- Designed responsive frontend interfaces
+
+---
+
+### ParkEase
+Full stack parking management web application developed during Coding Blocks Summer Internship.
+
+**Tech Stack:** Node.js, Express.js, MongoDB, Handlebars
+
+**Highlights**
+- Implemented authentication and session management
+- Applied MVC architecture principles
+- Deployed application using Render
+- Used Git based version control workflow
+
+---
+
+### FurnitureHub
+Furniture e-commerce platform developed using Node.js and MongoDB.
+
+**Tech Stack:** Node.js, MongoDB, EJS, JavaScript
+
+**Highlights**
+- Developed e-commerce workflow
+- Integrated product browsing and cart functionality
+- Designed responsive user interface
+- Connected backend database systems
+
+---
+
+## Experience
+
+### Coding Blocks — Summer Intern (Web Development)
+**June 2025 – July 2025**
+
+- Completed intensive Full Stack Web Development training
+- Developed ParkEase using Node.js, Express.js, MongoDB, and MVC architecture
+- Implemented authentication and password hashing
+- Deployed application using Render and Git workflows
+
+---
+
+## Leadership & Activities
+
+### Savera NGO — Executive Member
+- Organized workshops and educational initiatives
+- Managed volunteering activities and events
+- Worked on social impact projects
+
+### Google Developer Student Club (GDSC)
+- Executive and Content Team Member
+- Participated in technical workshops and events
+
+### Young Indians (Yi)
+- Member and organizing participant in technical and social initiatives
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muskan907&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan907&layout=compact&theme=default" />
+</p>
+
+---
+
+## Contact
 
 - GitHub: https://github.com/Muskan907
-- LeetCode: https://leetcode.com/u/Muskan_Patni/
 - LinkedIn: https://www.linkedin.com/in/muskanpatni30
+- LeetCode: https://leetcode.com/u/Muskan_Patni/
 
 ---
-
-# 📫 Open To
-
-- Software Engineering Opportunities
-- Full Stack Development Projects
-- Open Source Contributions
-- Internships & Collaborations
-
-⭐ Feel free to explore my repositories and connect with me!
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Muskan907&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Muskan907&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan907&theme=tokyonight&hide_border=true&layout=compact) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;ML+%26+Software+Engineering+Enthusiast;Building+Scalable+Applications;Open+Source+Contributor" />
+  Thank you for visiting my profile.
 </p>
-
-<h1 align="center">Hi 👋, I'm Muskan Patni</h1>
-
-<h3 align="center">
-Full Stack Developer • ML Enthusiast • Software Engineer
-</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muskanpatni30">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="https://github.com/Muskan907">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-
-  <a href="https://leetcode.com/u/Muskan_Patni/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muskan907&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-# 🚀 About Me
-
-- 💻 Full Stack Developer with experience in MERN Stack development
-- 🤖 Interested in Machine Learning, Cybersecurity, and System Design
-- 📱 Android App Developer using Java & XML
-- 🧠 Strong understanding of Data Structures & Algorithms
-- 🌱 Currently building scalable applications and AI-powered systems
-- 🎯 Passionate about clean UI/UX and modern web experiences
-
----
-
-# 🌱 Currently Working On
-
-- Advanced Full Stack Applications
-- Machine Learning Projects
-- Open Source Contributions
-- DSA & Problem Solving
-
----
-
-# 💻 Tech Stack
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue" />
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-
-</p>
-
----
-
-# 📌 Featured Projects
-
-## 🔐 Phishing URL Detection System
-
-🚀 Machine learning-powered phishing URL detector.
-
-### Tech Stack
-Python • Flask • Random Forest • SVM • Machine Learning
-
-### Features
-✔ Real-time URL analysis  
-✔ ML classification  
-✔ Threat detection system  
-✔ Security-focused architecture
-
----
-
-## 🏥 Cura Healthcare App
-
-🚀 Android healthcare management application.
-
-### Tech Stack
-Java • XML • Android Studio
-
-### Features
-✔ Appointment booking  
-✔ Medicine reminders  
-✔ Health record management  
-✔ Specialist search system
-
----
-
-## 🎓 Zenvy Coaching Platform
-
-🚀 Full-stack coaching comparison platform.
-
-### Tech Stack
-Node.js • Express.js • MongoDB • JavaScript
-
-### Features
-✔ Coaching comparison system  
-✔ Ratings and reviews  
-✔ Student-focused search features  
-✔ Enrollment functionality
-
----
-
-## 🔥 Wildfire Fighting Robot
-
-🚀 Autonomous wildfire detection and response system.
-
-### Tech Stack
-Arduino • Raspberry Pi • Python
-
-### Features
-✔ Fire detection using sensors  
-✔ Autonomous response system  
-✔ GPS alert integration  
-✔ Real-time monitoring
-
----
-
-## 🛋️ FurnitureHub
-
-🚀 Modern furniture e-commerce platform.
-
-### Tech Stack
-Node.js • MongoDB • EJS • JavaScript
-
-### Features
-✔ Product browsing  
-✔ Shopping cart system  
-✔ Database integration  
-✔ Responsive UI
-
----
-
-# 🏆 Experience & Leadership
-
-## Savera NGO Club
-Executive Committee Member
-
-- Organized social initiatives and educational events
-- Managed volunteering and social activities
-- Taught underprivileged children
-
-## Google Developer Student Club (GDSC)
-Executive & Content Team Member
-
-- Worked on technical content and developer community activities
-
-## Marketing & Event Management
-
-- Worked in social media and marketing teams for multiple events and fests
-- Managed branding, promotions, and engagement
-
-## Legal Internship
-Bhardwaj Law Firm
-
-- Worked on legal drafting, affidavits, notices, and documentation
-- Observed court proceedings and legal processes
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muskan907&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan907&theme=tokyonight&hide_border=true" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan907&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
-
----
-
-# 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Muskan_Patni?theme=dark&font=Nunito&ext=heatmap" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muskan907&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/Muskan907/Muskan907/blob/output/github-contribution-grid-snake.svg)
-
----
-
-# 📫 Open To
-
-- Software Engineering Opportunities
-- Full Stack Development Projects
-- Open Source Contributions
-- Internships & Collaborations
-
----
-
-# ⚡ Fun Fact
-
-I enjoy building intelligent systems, scalable applications, and modern developer experiences while continuously learning new technologies.
-
----
-
-⭐ Feel free to explore my repositories and connect with me!
